@@ -1,2 +1,2 @@
 # THESIS
-Code &amp; relevant assets concerning master thesis.
+Code &amp; relevant assets concerning my master thesis.
